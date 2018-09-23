@@ -1,0 +1,9 @@
+﻿## Interface: 80000
+## Title: GridStatusDirectionArrows
+## Notes: Shows direction arrows to other players
+## Dependencies: Grid
+## Author: Slaren
+## Version: @project-version@
+## X-GridStatusModule: GridStatusDirectionArrows
+
+GridStatusDirectionArrows.lua
